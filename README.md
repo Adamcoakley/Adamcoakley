@@ -18,7 +18,7 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-## 📊 My Biggest Project:
+## ✍️  My Biggest Project:
 [healthspace](https://github.com/Adamcoakley/health-space) - A social networking site for people with similar health concerns.
 
 ## 💻 Technology Stack:
@@ -62,9 +62,6 @@ me.say_hi()
 </div>
 
 </td></tr></table>  
-
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/adam-coakley-000b17175" target="_blank">
