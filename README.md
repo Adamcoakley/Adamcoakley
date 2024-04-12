@@ -18,6 +18,9 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
+## 📊 My Biggest Project:
+[healthspace](https://github.com/Adamcoakley/health-space) - A social networking site for people with similar health concerns.
+
 ## 💻 Technology Stack:
 <table><tr><td valign="top" width="33%">
 
@@ -60,23 +63,11 @@ me.say_hi()
 
 </td></tr></table>  
 
-## 📊 GitHub Statistics:
-![](https://github-readme-stats.vercel.app/api?username=Adamcoakley&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adamcoakley&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adamcoakley&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🌐 Socials:
-<div>
-<a href="https://github.com/Adamcoakley" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/adam-coakley-000b17175" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-
-
