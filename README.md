@@ -1,4 +1,4 @@
-## 💫 About Me:
+## 💫 About Me
 
 ```python
 class CloudEngineer:
@@ -18,8 +18,8 @@ me = CloudEngineer()
 me.say_hi()
 ```
 
-## ✍️  My Biggest Project:
-[healthspace](https://github.com/Adamcoakley/health-space) - A social networking site for people with similar health concerns.
+## 📝 Blog Posts
+I sometimes write about projects and ideas that I can't fully share with code: (https://adamcoakleysblog.com)  
 
 ## 💻 Technology Stack
 <table align="center">
@@ -54,7 +54,10 @@ me.say_hi()
   </tr>
 </table>
 
-## 🌐 Socials:
+## ✍️  My Biggest Project
+[healthspace](https://github.com/Adamcoakley/health-space) - A social networking site for people with similar health concerns.
+
+## 🌐 Socials
 <a href="https://linkedin.com/in/adam-coakley-000b17175" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
