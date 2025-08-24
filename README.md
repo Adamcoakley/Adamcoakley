@@ -19,7 +19,7 @@ me.say_hi()
 ```
 
 ## 📝 Blog Posts
-I sometimes write about projects and ideas that I can't fully share with code: (https://adamcoakleysblog.com)  
+I sometimes write about projects and ideas that I can't fully share with code: https://adamcoakleysblog.com
 
 ## 💻 Technology Stack
 <table align="center">
